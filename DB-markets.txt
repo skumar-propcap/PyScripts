@@ -1,0 +1,54 @@
+--- Original Sender: PATRICK NIRO, DEUTSCHE BANK SECURI ---
+
+
+----- Original Message -----
+From: PATRICK NIRO (DEUTSCHE BANK SECURI)
+To: TYLER PENNINGTON (PROPRIETARY CAPITAL)
+At:  7/14 10:22:36
+
+We've also found a bit of current-pay STACR paper, buying STACR 2014-HQ1 M1. I believe this is the first trade in STACR M1s in nearly two weeks.  Are you a buyer or seller at these levels?  
+
+3137G0BU2 STACR 2014-HQ1 M1     140/130    5.0 x 5.0      A2 / - / A-
+   
+
+----- Original Message -----
+
+Finally finding some supply, buying 5+mm STACR 15-HQ1 M2'S.  We are now 225/215 on the follow - 5mm up.  Other markets are unch'd:
+
+Cusip     Bond                  Bid Offer     Size         Rating
+3137G0AK5 STACR 2014-DN1 M1     115/       5.0 x          A1 / - / -
+3137G0AW9 STACR 2014-DN2 M1     105/       5.0 x          - / - / A
+3137G0BH1 STACR 2014-DN3 M1     115/       5.0 x          A1 / - / A-
+3137G0CS6 STACR 2014-DN4 M1     120/       5.0 x          A1 / - / A-
+3137G0DQ9 STACR 2015-DN1 M1     115/       5.0 x          A2 / - / -
+3137G0EQ8 STACR 2015-DNA1 M1    105/95     5.0 x 3.1      A3 / - / AA-
+3137G0FQ7 STACR 2015-DNA2 M1    115/105    5.0 x 4.5      A3 / AA+ / -
+3137G0BU2 STACR 2014-HQ1 M1     140/130    5.0 x 5.0      A2 / - / A-
+3137G0CF4 STACR 2014-HQ2 M1     120/110    5.0 x 0.3      A2 / - / A-
+3137G0DD8 STACR 2014-HQ3 M1     135/       5.0 x          A1 / - / A-
+3137G0EC9 STACR 2015-HQ1 M1     115/105    5.0 x 5.0      A1 / - / -
+
+30711XAE4 CAS 2014-C02 1M1      150/140    5.0 x 5.0      - / BBB- / BBB-
+30711XAJ3 CAS 2014-C03 1M1      130/       5.0 x          - / - / BBB-
+30711XAN4 CAS 2014-C04 1M1      140/       5.0 x          Baa3 / - / -
+30711XAS3 CAS 2015-C01 1M1      140/       5.0 x          - / - / BBB-
+30711XAW4 CAS 2015-C02 1M1      130/       5.0 x          A3 / - / BBB-
+30711XAL8 CAS 2014-C03 2M1      135/125    5.0 x 5.0      - / - / BBB
+30711XAQ7 CAS 2014-C04 2M1      145/       5.0 x          Baa2 / - / -
+30711XAU8 CAS 2015-C01 2M1      145/       5.0 x          - / - / BBB
+30711XAY0 CAS 2015-C02 2M1      140/       5.0 x          Baa1 / - / BBB-
+
+3137G0AL3 STACR 2014-DN1 M2     225/       5.0 x          Baa1 / - / -
+3137G0AX7 STACR 2014-DN2 M2     225/       5.0 x          - / - / BBB-
+3137G0BJ7 STACR 2014-DN3 M2     220/       5.0 x          A3 / - / BBB-
+3137G0CT4 STACR 2014-DN4 M2     220/       5.0 x          A3 / - / BBB-
+3137G0DT3 STACR 2015-DN1 M2     215/       5.0 x          Baa1 / - / -
+3137G0ET2 STACR 2015-DNA1 M2    220/210    5.0 x 4.0      Baa3 / - / A
+3137G0FT1 STACR 2015-DNA2 M2    250/       5.0 x          Baa3 / AA+ / -
+3137G0BV0 STACR 2014-HQ1 M2     225/       5.0 x          Baa2 / - / BBB-
+3137G0CG2 STACR 2014-HQ2 M2     230/220    5.0 x 0.3      Baa2 / - / BBB-
+3137G0DE6 STACR 2014-HQ3 M2     240/       5.0 x          Baa1 / - / BBB-
+3137G0EF2 STACR 2015-HQ1 M2     225/215    5.0 x 5.0      Baa1 / - / -
+
+*Markets are subject; please contact the desk for live levels.  All bids/offers are to 10cpr
+

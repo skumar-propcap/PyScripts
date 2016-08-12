@@ -1,0 +1,53 @@
+--- Original Sender: GS NON-AGY TRADING GOLDMAN SACHS, GOLDMAN, SACHS & CO. ---
+
+
+----- Original Message -----
+From: GS NON-AGY TRADING GOLDMAN SACHS (GOLDMAN, SACHS & CO.)
+To: TYLER PENNINGTON (PROPRIETARY CAPITAL)
+At:  7/13  8:30:58
+
+                Cpn     Bid/Off  Size                    Cpn    Bid/Off  Size
+STACR 15-HQ2 M1 L+110   135/     5 x      CAS 15-C02 1M1 L+115  150/     5 x
+STACR 15-HQ2 M2 L+195   225/     3 x      CAS 15-C02 1M2 L+400  450/440  3 x 3
+STACR 15-HQ2 M3 L+325   405/     3 x      CAS 15-C02 2M1 L+120  150/     5 x
+STACR 15-HQ2 B  L+795   Call     3 x      CAS 15-C02 2M2 L+400  460/     3 x
+
+STACR 15-HQ1 M1 L+105   135/     5 x      CAS 15-C01 1M1 L+150  150/     5 x
+STACR 15-HQ1 M2 L+220   220/210  3 x 5    CAS 15-C01 1M2 L+430  455/     3 x
+STACR 15-HQ1 M3 L+380   405/     3 x      CAS 15-C01 2M1 L+150  150/     5 x
+STACR 15-HQ1 B  L+1075  Call     3 x      CAS 15-C01 2M2 L+455  460/     3 x
+
+STACR 15-DN1 M1 L+125   135/     5 x      CAS 14-C04 1M1 L+195  165/     5 x
+STACR 15-DN1 M2 L+240   230/     3 x      CAS 14-C04 1M2 L+490  455/     3 x
+STACR 15-DN1 M3 L+415   400/     3 x      CAS 14-C04 2M1 L+210  170/     5 x
+STACR 15-DN1 B  L+1150  Call     3 x      CAS 14-C04 2M2 L+500  460/     3 x
+
+STACR 14-HQ3 M1 L+165   150/     5 x      CAS 14-C03 1M1 L+120  150/     5 x
+STACR 14-HQ3 M2 L+240   235/     3 x      CAS 14-C03 1M2 L+300  450/     3 x
+STACR 14-HQ3 M3 L+475   440/     3 x      CAS 14-C03 2M1 L+120  150/     5 x
+                                          CAS 14-C03 2M2 L+290  455/     3 x
+STACR 14-DN4 M1 L+140   135/     5 x
+STACR 14-DN4 M2 L+240   230/     3 x      CAS 14-C02 1M1 L+95   150/     5 x
+STACR 14-DN4 M3 L+455   420/410  3 x 3    CAS 14-C02 1M2 L+260  450/     3 x
+                                          CAS 14-C02 2M1 L+95   143/138  5 x 3
+STACR 14-HQ2 M1 L+145   145/     5 x      CAS 14-C02 2M2 L+260  455/     3 x
+STACR 14-HQ2 M2 L+220   245/     3 x
+STACR 14-HQ2 M3 L+375   445/     3 x      CAS 14-C01 M1  L+160  150/     5 x
+                                          CAS 14-C01 M2  L+440  430/     3 x
+STACR 14-DN3 M1 L+135   130/     5 x
+STACR 14-DN3 M2 L+240   230/     3 x
+STACR 14-DN3 M3 L+400   415/     3 x
+
+STACR 14-HQ1 M1 L+165   150/     5 x
+STACR 14-HQ1 M2 L+250   235/     3 x
+STACR 14-HQ1 M3 L+410   425/     3 x
+
+STACR 14-DN2 M1 L+85    130/     5 x
+STACR 14-DN2 M2 L+165   225/     3 x
+STACR 14-DN2 M3 L+360   420/     3 x
+
+STACR 14-DN1 M1 L+100   130/     5 x
+STACR 14-DN1 M2 L+220   225/     3 x
+STACR 14-DN1 M3 L+450   430/     3 x
+
+Please call to engage

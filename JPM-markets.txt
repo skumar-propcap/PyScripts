@@ -1,0 +1,73 @@
+--- Original Sender: BOBBY HEYTOTA, JP MORGAN SECURITIES ---
+
+
+----- Original Message -----
+From: BOBBY HEYTOTA (JP MORGAN SECURITIES)
+To: TYLER PENNINGTON (PROPRIETARY CAPITAL)
+At:  7/13  9:37:22
+
+Continued better selling at the end of last week has CRT Markets ~unchanged despite positive macro developments and the move tighter in credit. IOI schedule today will be 10:15am / 2pm 
+
+---------------------------------------------------------------------------
+                           DM to Spot Libor/10CPR                          
+                              {JPEX#CRT <GO>}                              
+---------------------------------------------------------------------------
+Bond              CE%   Bid/Ask  Size   Bond            CE%   Bid/Ask  Size
+STACR 15-HQ2  M1  4.10  125/     5x   | CAS 15-C02 2M1  2.85  150/     5x  
+STACR 15-HQ2  M2  2.25  238/     3x   | CAS 15-C02 2M2  0.80  458/     3x  
+STACR 15-HQ2  M3  1.00  383/373  3x3  |                                    
+STACR 15-HQ2  B   0.00  770/     3x   | CAS 15-C01 2M1  3.12  152/     5x  
+                                      | CAS 15-C01 2M2  0.78  458/     3x  
+STACR 15-HQ1  M1  4.97  130/     5x   |                                    
+STACR 15-HQ1  M2  3.14  253/     3x   | CAS 14-C04 2M1  2.79  155/     5x  
+STACR 15-HQ1  M3  1.57  415/     3x   | CAS 14-C04 2M2  0.71  458/     3x  
+STACR 15-HQ1  B   0.00  835/     3x   |                                    
+                                      | CAS 14-C03 2M1  2.63  157/     5x  
+STACR 14-HQ3  M1  5.61  150/     5x   | CAS 14-C03 2M2  0.71  458/     3x  
+STACR 14-HQ3  M2  3.66  238/     3x   |                                    
+STACR 14-HQ3  M3  1.00  445/     3x   | CAS 14-C02 2M1  2.66  160/     5x  
+                                      | CAS 14-C02 2M2  0.72  452/     3x  
+STACR 14-HQ2  M1  4.52  130/     5x   |                                    
+STACR 14-HQ2  M2  2.48  238/     3x   | CAS 15-C02 1M1  2.75  145/     5x  
+STACR 14-HQ2  M3  0.66  433/421  3x3  | CAS 15-C02 1M2  0.40  452/     3x  
+                                      |                                    
+STACR 14-HQ1  M1  5.04  142/     5x   | CAS 15-C01 1M1  2.44  145/     5x  
+STACR 14-HQ1  M2  3.13  238/     3x   | CAS 15-C01 1M2  0.45  450/437  3x3 
+STACR 14-HQ1  M3  0.92  442/     3x   |                                    
+                                      | CAS 14-C04 1M1  2.20  145/     5x  
+STACR 15-DNA2 M1  NA    121/     5x   | CAS 14-C04 1M2  0.33  455/     3x  
+STACR 15-DNA2 M2  NA    258/     3x   |                                    
+STACR 15-DNA2 M3  NA    413/     3x   | CAS 14-C03 1M1  2.17  155/     5x  
+STACR 15-DNA2 B   NA    735/     3x   | CAS 14-C03 1M2  0.32  455/     3x  
+                                      |                                    
+STACR 15-DNA1 M1  3.31  115/     5x   | CAS 14-C02 1M1  1.91  155/     5x  
+STACR 15-DNA1 M2  2.29  238/     3x   | CAS 14-C02 1M2  0.33  450/     3x  
+STACR 15-DNA1 M3  1.02  374/     3x   |                                    
+STACR 15-DNA1 B   0.00  705/     3x   | CAS 14-C01 M1   1.84  145/     5x  
+                                      | CAS 14-C01 M2   0.33  412/400  3x0+
+STACR 15-DN1  M1  3.99  130/     5x   |                                    
+STACR 15-DN1  M2  2.85  238/     3x   | CAS 13-C01 M1   1.90  150/     5x  
+STACR 15-DN1  M3  1.14  406/393  3x3  | CAS 13-C01 M2   0.34  400/     3x  
+STACR 15-DN1  B   0.00  855/     3x   |                                    
+                                      |                                    
+STACR 14-DN4  M1  5.10  130/     5x   |                                    
+STACR 14-DN4  M2  3.52  238/     3x   |                                    
+STACR 14-DN4  M3  0.61  438/     3x   |                                    
+                                      |                                    
+STACR 14-DN3  M1  4.66  130/     5x   |                                    
+STACR 14-DN3  M2  3.11  238/     3x   |                                    
+STACR 14-DN3  M3  0.51  423/     3x   |                                    
+                                      |                                    
+STACR 14-DN2  M1  4.13  115/     5x   |                                    
+STACR 14-DN2  M2  2.36  234/     3x   |                                    
+STACR 14-DN2  M3  0.35  424/412  3x3  |                                    
+                                      |                                    
+STACR 14-DN1  M1  3.86  130/     5x   |                                    
+STACR 14-DN1  M2  2.21  234/     3x   |                                    
+STACR 14-DN1  M3  0.33  423/     3x   |                                    
+                                      |                                    
+STACR 13-DN2  M1  2.20  150/     5x   |                                    
+STACR 13-DN2  M2  0.33  395/     3x   |                                    
+                                      |                                    
+STACR 13-DN1  M1  1.94  185/     5x   |                                    
+STACR 13-DN1  M2  0.34  390/     3x   |                                    

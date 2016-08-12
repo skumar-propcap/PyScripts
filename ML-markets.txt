@@ -1,0 +1,577 @@
+--- Original Sender: NOAH COOPER, MERRILL LYNCH ---
+
+
+
+----- Original Message -----
+From: NOAH COOPER (MERRILL LYNCH)
+At: Jun 22 2015 09:58:31
+
+Bonds               Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ2 M1   126          5   x       0
+STACR 2015-HQ2 M2   212          5   x       0
+STACR 2015-HQ2 M3   354    344   5   x  5    -1
+STACR 2015-HQ2 B    788          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C02 1M1    137          5   x       0
+CAS 2015-C02 1M2    424    414   5   x  5    -1
+CAS 2015-C02 2M1    137          5   x       0
+CAS 2015-C02 2M2    427          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA1 M1  119          5   x       0
+STACR 2015-DNA1 M2  198          5   x       0
+STACR 2015-DNA1 M3  351          5   x       -1
+STACR 2015-DNA1 B  112-00        5   x
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ1 M1   136          5   x       0
+STACR 2015-HQ1 M2   207          5   x       0
+STACR 2015-HQ1 M3   389          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C01 1M1    140          5   x       0
+CAS 2015-C01 1M2    424          5   x       -1
+CAS 2015-C01 2M1    143          5   x       0
+CAS 2015-C01 2M2    429    419   5   x 0.2   -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DN1 M1   133          5   x       0
+STACR 2015-DN1 M2   215          5   x       0
+STACR 2015-DN1 M3   386    376   5   x       -1
+STACR 2015-DN1 B   119-08       2.5  x
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C04 1M1    136          5   x       0
+CAS 2014-C04 1M2    421    411   5   x  5    -1
+CAS 2014-C04 2M1    137          5   x       0
+CAS 2014-C04 2M2    427          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ3 M1   133          5   x       0
+STACR 2014-HQ3 M2   211    201   5   x 1.8   0
+STACR 2014-HQ3 M3   413          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN4 M1   136          5   x       0
+STACR 2014-DN4 M2   201          5   x       0
+STACR 2014-DN4 M3   415          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ2 M1   135          5   x       0
+STACR 2014-HQ2 M2   212          5   x       0
+STACR 2014-HQ2 M3   394          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN3 M1   137          5   x       0
+STACR 2014-DN3 M2   214          5   x       0
+STACR 2014-DN3 M3   404          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ1 M1   141          5   x       0
+STACR 2014-HQ1 M2   219          5   x       0
+STACR 2014-HQ1 M3   418          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C03 1M1    132          5   x       0
+CAS 2014-C03 1M2    414    404   5   x  5    -1
+CAS 2014-C03 2M1    140          5   x       0
+CAS 2014-C03 2M2    416    406   5   x  5    -1
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C02 1M1    140          5   x       0
+CAS 2014-C02 1M2    417          5   x       -1
+CAS 2014-C02 2M1    150          5   x       0
+CAS 2014-C02 2M2    417          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN2 M1   120          5   x       0
+STACR 2014-DN2 M2   199          5   x       0
+STACR 2014-DN2 M3   399    389   5   x  5    -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN1 M1   110          5   x       0
+STACR 2014-DN1 M2   209          5   x       0
+STACR 2014-DN1 M3   394    384   5   x  5    -1
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C01 M1     137          5   x       0
+CAS 2014-C01 M2     386          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN2 M1   132          5   x       0
+STACR 2013-DN2 M2   386          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2013-C01 M1     125          5   x       -2
+CAS 2013-C01 M2     387          5   x       -1
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN1 M1   142          5   x       0
+STACR 2013-DN1 M2   396          5   x       -1
+
+--- Original Sender: BENNY SALERNO, MERRILL LYNCH ---
+
+
+
+----- Original Message -----
+From: BENNY SALERNO (MERRILL LYNCH)
+At: Jun 25 2015 09:06:03
+
+Bonds               Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA2 M1  115          5   x       0
+STACR 2015-DNA2 M2  260          5   x       0
+STACR 2015-DNA2 M3  390          5   x       0
+STACR 2015-DNA2 B   755          5   x       0
+
+STACR 2015-HQ2 M1   126          5   x       0
+STACR 2015-HQ2 M2   245          5   x       0
+STACR 2015-HQ2 M3   365    355   5   x  5    0
+STACR 2015-HQ2 B    775          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C02 1M1    137          5   x       0
+CAS 2015-C02 1M2    443    433   5   x  5    0
+CAS 2015-C02 2M1    137          5   x       0
+CAS 2015-C02 2M2    443          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA1 M1  119          5   x       0
+STACR 2015-DNA1 M2  240          5   x       0
+STACR 2015-DNA1 M3  363          5   x       0
+STACR 2015-DNA1 B  115-00        5   x
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ1 M1   136          5   x       0
+STACR 2015-HQ1 M2   250          5   x       0
+STACR 2015-HQ1 M3   398          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C01 1M1    140          5   x       0
+CAS 2015-C01 1M2    435          5   x       0
+CAS 2015-C01 2M1    143          5   x       0
+CAS 2015-C01 2M2    440    430   5   x 3.25  0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DN1 M1   133          5   x       0
+STACR 2015-DN1 M2   247          5   x       0
+STACR 2015-DN1 M3   393    383   5   x  3    0
+STACR 2015-DN1 B   119-00       2.5  x
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C04 1M1    136          5   x       0
+CAS 2014-C04 1M2    435    425   5   x  5    0
+CAS 2014-C04 2M1    137          5   x       0
+CAS 2014-C04 2M2    440          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ3 M1   133          5   x       0
+STACR 2014-HQ3 M2   240    230   5   x 1.8   0
+STACR 2014-HQ3 M3   421          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN4 M1   136          5   x       0
+STACR 2014-DN4 M2   240          5   x       0
+STACR 2014-DN4 M3   425          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ2 M1   135          5   x       0
+STACR 2014-HQ2 M2   240          5   x       0
+STACR 2014-HQ2 M3   400          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN3 M1   137          5   x       0
+STACR 2014-DN3 M2   240          5   x       0
+STACR 2014-DN3 M3   411          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ1 M1   141          5   x       0
+STACR 2014-HQ1 M2   240          5   x       0
+STACR 2014-HQ1 M3   426          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C03 1M1    132          5   x       0
+CAS 2014-C03 1M2    428    418   5   x  5    0
+CAS 2014-C03 2M1    140          5   x       0
+CAS 2014-C03 2M2    425    415   5   x  5    0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C02 1M1    140          5   x       0
+CAS 2014-C02 1M2    425          5   x       0
+CAS 2014-C02 2M1    150          5   x       0
+CAS 2014-C02 2M2    425          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN2 M1   120          5   x       0
+STACR 2014-DN2 M2   240          5   x       0
+STACR 2014-DN2 M3   410    400   5   x  5    0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN1 M1   110          5   x       0
+STACR 2014-DN1 M2   240          5   x       0
+STACR 2014-DN1 M3   406    396   5   x  5    0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C01 M1     137          5   x       0
+CAS 2014-C01 M2     390          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN2 M1   132          5   x       0
+STACR 2013-DN2 M2   390          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2013-C01 M1     125          5   x       0
+CAS 2013-C01 M2     390          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN1 M1   142          5   x       0
+STACR 2013-DN1 M2   402          5   x       0
+--- Original Sender: NOAH COOPER, MERRILL LYNCH ---
+
+
+
+----- Original Message -----
+From: NOAH COOPER (MERRILL LYNCH)
+At: Jun 24 2015 08:01:43
+
+Bonds               Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ2 M1   126          5   x       0
+STACR 2015-HQ2 M2   245          5   x       0
+STACR 2015-HQ2 M3   363    353   5   x  5    0
+STACR 2015-HQ2 B    775          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C02 1M1    137          5   x       0
+CAS 2015-C02 1M2    438    428   5   x  5    0
+CAS 2015-C02 2M1    137          5   x       0
+CAS 2015-C02 2M2    437          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA1 M1  119          5   x       0
+STACR 2015-DNA1 M2  235          5   x       0
+STACR 2015-DNA1 M3  362          5   x       0
+STACR 2015-DNA1 B  112-00        5   x
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ1 M1   136          5   x       0
+STACR 2015-HQ1 M2   250          5   x       0
+STACR 2015-HQ1 M3   398          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C01 1M1    140          5   x       0
+CAS 2015-C01 1M2    432          5   x       0
+CAS 2015-C01 2M1    143          5   x       0
+CAS 2015-C01 2M2    437    427   5   x 0.2   0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DN1 M1   133          5   x       0
+STACR 2015-DN1 M2   245          5   x       0
+STACR 2015-DN1 M3   393    383   5   x       0
+STACR 2015-DN1 B   119-00       2.5  x
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C04 1M1    136          5   x       0
+CAS 2014-C04 1M2    430    420   5   x  5    0
+CAS 2014-C04 2M1    137          5   x       0
+CAS 2014-C04 2M2    437          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ3 M1   133          5   x       0
+STACR 2014-HQ3 M2   240    230   5   x 1.8   0
+STACR 2014-HQ3 M3   421          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN4 M1   136          5   x       0
+STACR 2014-DN4 M2   240          5   x       0
+STACR 2014-DN4 M3   424          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ2 M1   135          5   x       0
+STACR 2014-HQ2 M2   240          5   x       0
+STACR 2014-HQ2 M3   402          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN3 M1   137          5   x       0
+STACR 2014-DN3 M2   240          5   x       0
+STACR 2014-DN3 M3   411          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ1 M1   141          5   x       0
+STACR 2014-HQ1 M2   240          5   x       0
+STACR 2014-HQ1 M3   427          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C03 1M1    132          5   x       0
+CAS 2014-C03 1M2    422    412   5   x  5    0
+CAS 2014-C03 2M1    140          5   x       0
+CAS 2014-C03 2M2    424    414   5   x  5    0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C02 1M1    140          5   x       0
+CAS 2014-C02 1M2    425          5   x       0
+CAS 2014-C02 2M1    150          5   x       0
+CAS 2014-C02 2M2    425          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN2 M1   120          5   x       0
+STACR 2014-DN2 M2   240          5   x       0
+STACR 2014-DN2 M3   412    402   5   x  5    0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN1 M1   110          5   x       0
+STACR 2014-DN1 M2   240          5   x       0
+STACR 2014-DN1 M3   407    397   5   x  5    0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C01 M1     137          5   x       0
+CAS 2014-C01 M2     390          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN2 M1   132          5   x       0
+STACR 2013-DN2 M2   390          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2013-C01 M1     125          5   x       0
+CAS 2013-C01 M2     391          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN1 M1   142          5   x       0
+STACR 2013-DN1 M2   402          5   x       0
+
+--- Original Sender: NOAH COOPER, MERRILL LYNCH ---
+
+
+
+----- Original Message -----
+From: NOAH COOPER (MERRILL LYNCH)
+At: Jun 22 2015 10:04:49
+
+Bonds               Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ2 M1   126          5   x       0
+STACR 2015-HQ2 M2   212          5   x       0
+STACR 2015-HQ2 M3   353    343   5   x  5    -2
+STACR 2015-HQ2 B    788          5   x       0
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C02 1M1    137          5   x       0
+CAS 2015-C02 1M2    423    413   5   x  5    -2
+CAS 2015-C02 2M1    137          5   x       0
+CAS 2015-C02 2M2    426          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA1 M1  119          5   x       0
+STACR 2015-DNA1 M2  198          5   x       0
+STACR 2015-DNA1 M3  350          5   x       -2
+STACR 2015-DNA1 B  112-00        5   x
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ1 M1   136          5   x       0
+STACR 2015-HQ1 M2   207          5   x       0
+STACR 2015-HQ1 M3   388          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C01 1M1    140          5   x       0
+CAS 2015-C01 1M2    423          5   x       -2
+CAS 2015-C01 2M1    143          5   x       0
+CAS 2015-C01 2M2    428    418   5   x 0.2   -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DN1 M1   133          5   x       0
+STACR 2015-DN1 M2   215          5   x       0
+STACR 2015-DN1 M3   385    375   5   x       -2
+STACR 2015-DN1 B   119-08       2.5  x
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C04 1M1    136          5   x       0
+CAS 2014-C04 1M2    420    410   5   x  5    -2
+CAS 2014-C04 2M1    137          5   x       0
+CAS 2014-C04 2M2    426          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ3 M1   133          5   x       0
+STACR 2014-HQ3 M2   211    201   5   x 1.8   0
+STACR 2014-HQ3 M3   412          5   x       -3
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN4 M1   136          5   x       0
+STACR 2014-DN4 M2   201          5   x       0
+STACR 2014-DN4 M3   414          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ2 M1   135          5   x       0
+STACR 2014-HQ2 M2   212          5   x       0
+STACR 2014-HQ2 M3   393          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN3 M1   137          5   x       0
+STACR 2014-DN3 M2   214          5   x       0
+STACR 2014-DN3 M3   403          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ1 M1   141          5   x       0
+STACR 2014-HQ1 M2   219          5   x       0
+STACR 2014-HQ1 M3   417          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C03 1M1    132          5   x       0
+CAS 2014-C03 1M2    413    403   5   x  5    -2
+CAS 2014-C03 2M1    140          5   x       0
+CAS 2014-C03 2M2    415    405   5   x  5    -2
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C02 1M1    140          5   x       0
+CAS 2014-C02 1M2    416          5   x       -2
+CAS 2014-C02 2M1    150          5   x       0
+CAS 2014-C02 2M2    416          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN2 M1   120          5   x       0
+STACR 2014-DN2 M2   199          5   x       0
+STACR 2014-DN2 M3   398    388   5   x  5    -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN1 M1   110          5   x       0
+STACR 2014-DN1 M2   209          5   x       0
+STACR 2014-DN1 M3   393    383   5   x  5    -2
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C01 M1     137          5   x       0
+CAS 2014-C01 M2     385          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN2 M1   132          5   x       0
+STACR 2013-DN2 M2   385          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2013-C01 M1     125          5   x       -2
+CAS 2013-C01 M2     386          5   x       -2
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN1 M1   142          5   x       0
+STACR 2013-DN1 M2   395          5   x       -2
+
+--- Original Sender: NOAH COOPER, MERRILL LYNCH ---
+
+
+
+----- Original Message -----
+From: NOAH COOPER (MERRILL LYNCH)
+At: Jul  6 2015 08:16:16
+
+Bonds               Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA2 M1  120    110   5   x  1    2
+STACR 2015-DNA2 M2  254    244   5   x  5    4
+STACR 2015-DNA2 M3  402    392   5   x  2    7
+STACR 2015-DNA2 B   735          5   x       5
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ2 M1   127          5   x       2
+STACR 2015-HQ2 M2   239          5   x       4
+STACR 2015-HQ2 M3   372    362   5   x  3    7
+STACR 2015-HQ2 B    775          5   x       5
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C02 1M1    140          5   x       2
+CAS 2015-C02 1M2    443    433   5   x  5    5
+CAS 2015-C02 2M1    140          5   x       2
+CAS 2015-C02 2M2    440          5   x       5
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA1 M1  117          5   x       2
+STACR 2015-DNA1 M2  232          5   x       4
+STACR 2015-DNA1 M3  376          5   x       7
+STACR 2015-DNA1 B  117-00       2.5  x
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-HQ1 M1   132          5   x       2
+STACR 2015-HQ1 M2   239          5   x       4
+STACR 2015-HQ1 M3   405          5   x       7
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2015-C01 1M1    142          5   x       2
+CAS 2015-C01 1M2    436          5   x       5
+CAS 2015-C01 2M1    147          5   x       2
+CAS 2015-C01 2M2    439          5   x       5
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2015-DN1 M1   132          5   x       2
+STACR 2015-DN1 M2   229          5   x       4
+STACR 2015-DN1 M3   392          5   x       7
+STACR 2015-DN1 B   119-00       2.5  x
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C04 1M1    137          5   x       2
+CAS 2014-C04 1M2    440    430   5   x  5    5
+CAS 2014-C04 2M1    139          5   x       2
+CAS 2014-C04 2M2    445          5   x       5
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ3 M1   138          5   x       2
+STACR 2014-HQ3 M2   226          5   x       4
+STACR 2014-HQ3 M3   431          5   x       7
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN4 M1   127          5   x       2
+STACR 2014-DN4 M2   224          5   x       4
+STACR 2014-DN4 M3   432          5   x       7
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ2 M1   122          5   x       2
+STACR 2014-HQ2 M2   234          5   x       4
+STACR 2014-HQ2 M3   412          5   x       7
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN3 M1   140          5   x       2
+STACR 2014-DN3 M2   224          5   x       4
+STACR 2014-DN3 M3   415          5   x       7
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-HQ1 M1   132          5   x       2
+STACR 2014-HQ1 M2   236          5   x       4
+STACR 2014-HQ1 M3   437          5   x       7
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C03 1M1    132          5   x       2
+CAS 2014-C03 1M2    433    423   5   x  5    5
+CAS 2014-C03 2M1    137          5   x       2
+CAS 2014-C03 2M2    430    420   5   x  5    5
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C02 1M1    143    133   5   x 0.22  2
+CAS 2014-C02 1M2    431          5   x       5
+CAS 2014-C02 2M1    142          5   x       2
+CAS 2014-C02 2M2    431          5   x       5
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN2 M1   122          5   x       2
+STACR 2014-DN2 M2   232          5   x       4
+STACR 2014-DN2 M3   411    401   5   x  5    7
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2014-DN1 M1   114          5   x       2
+STACR 2014-DN1 M2   229          5   x       4
+STACR 2014-DN1 M3   409    399   5   x  3    7
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2014-C01 M1     140          5   x       2
+CAS 2014-C01 M2     396          5   x       4
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN2 M1   135          5   x       2
+STACR 2013-DN2 M2   396          5   x       4
+
+                    Bid   Offer (mm)   (mm) Chng
+CAS 2013-C01 M1     128          5   x       2
+CAS 2013-C01 M2     396          5   x       4
+
+                    Bid   Offer (mm)   (mm) Chng
+STACR 2013-DN1 M1   145          5   x       2
+STACR 2013-DN1 M2   404          5   x       3
+CAS 2015-C02 1M1    141          5   x       5
+CAS 2015-C02 1M2    443    433   5   x  5    10
+
+Bonds               Bid   Offer (mm)   (mm) Chng
+STACR 2015-DNA2 M1  118          5   x       5
+STACR 2015-DNA2 M2  258    248   5   x  2    8
+STACR 2015-DNA2 M3  400    390   5   x  2    10
+STACR 2015-DNA2 B   755          5   x       20
