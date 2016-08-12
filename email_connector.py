@@ -10,19 +10,19 @@ JPM_expr = "(\w+\s+\d+[-/\\,]\w+\s+\w+)\s+(?:\d+\.\d+|NA)\s+(\d+\/\d*)\s+(\d\s?x
 
 index = 0
 """
-def scrape_shit(file_name):
+def scrape_stuff(file_name):
     with open(file_name) as _input_:
         data = _input_.read()
     result = re.findall(JPM_expr, data)
     return result
 
-def print_shit(some_array):
+def print_stuff(some_array):
     global index
     for each_array in some_array:
         index = index+1
         print "ID #",index,"Bond name",each_array
 """
-def scrape_shit_from_GSucks(file_name):
+def scrape_stuff_from_GS(file_name):
 
     total_results = []
     STACR_STR = []
@@ -116,4 +116,4 @@ def scrape_shit_from_GSucks(file_name):
 
     print"DONE"
 
-scrape_shit_from_GSucks("GS-markets.txt")
+scrape_shit_from_GS("GS-markets.txt")
